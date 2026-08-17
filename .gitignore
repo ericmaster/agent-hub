@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+.dev.vars
+*.pem
+*.key
+*.p12
+node_modules/
+.DS_Store
